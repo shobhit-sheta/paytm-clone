@@ -55,4 +55,4 @@ This project was built within 8 hours.
 
 Name: **Shobhit Sheta**
 
-<a href="https://www.linkedin.com/in/shobhit-sheta-572b16209/" rel="some text"><img src="./readme/linkedin-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="https://github.com/shobhit-sheta/paytm-clone" rel="some text"><img src="./readme/github-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="#" rel="some text"><img src="./readme/hashnode-icon-svgrepo-com.svg" alt="" style="width: 4%"></a>
+<a href="https://www.linkedin.com/in/shobhit-sheta-572b16209/" rel="some text"><img src="./readme/linkedin-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="https://github.com/shobhit-sheta/pytm-clone" rel="some text"><img src="./readme/github-svgrepo-com.svg" alt="" style="width: 4%;margin-right: 6%"></a> <a href="#" rel="some text"><img src="./readme/hashnode-icon-svgrepo-com.svg" alt="" style="width: 4%"></a>
