@@ -39,7 +39,7 @@ This project is created using:
 
 This project is hosted on Netlify.
 
-[Netlify](https://shobhits-paytm-clone.netlify.app/)
+[Netlify](https://shobhits-cloneforeducation.netlify.app/)
 
 #
 
